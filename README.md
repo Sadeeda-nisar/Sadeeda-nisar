@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadeeda</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">interested in Networking and Network Automation</h3>
 
-- 💬 Ask me about **react,Bootstrap,Typescript**
+- 💬 Ask me about **network management and configurations**
 
 - 📫 How to reach me **mn3881374@gmail.com**
 
